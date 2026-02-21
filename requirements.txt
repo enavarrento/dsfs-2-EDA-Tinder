@@ -1,0 +1,12 @@
+# Core Data Science & Manipulation
+numpy
+pandas
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+nbformat
+
+# Network Requests (for initial raw data download)
+requests
