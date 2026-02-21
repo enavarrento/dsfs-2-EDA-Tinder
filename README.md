@@ -36,8 +36,8 @@ The final analysis compares "Stated Preferences" (100-point scale) against "Reve
 ## Repository Structure 📁
 
 ```text
-├── assets/                                 # Exported figures
-│   ├── html/                               # .html interactive charts (Bxx for Behavior, Pxx for Preferences)
+├── assets/                                 # Exported figures (Bxx for Behavior, Pxx for Preferences)
+│   ├── html/                               # .html interactive charts 
 │   └── png/                                # .png charts
 ├── data/
 │   ├── raw/                                # Original speed_dating_data.csv (Immutable)
